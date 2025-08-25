@@ -56,7 +56,7 @@ class HomeController extends Controller
                     [
                         'role' => 'user',
                         'content' => 
-                            "Gere uma receita incrível sem adicionar mais nenhum item. E no modo de preparo seja o mais breve".
+                            "Gere uma receita incrível  e de o nome a essa receita, sem adicionar mais nenhum item. E no modo de preparo seja o mais breve".
                             "SOMENTE com os seguintes ingredientes: " . $r->ingredientes . ". ".
                             "Importante: você não deve incluir ingredientes extras e faça isso de forma curta e a resposta deve ser em Pt-Br ".
                             ''
